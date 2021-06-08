@@ -8,4 +8,4 @@ The building is 10 stories tall and the floors are numbered 0 - 10 inclusive.
 The lobby is floor 0, and the penthouse is floor 10. 
 The building contains one basement (floor -1).
 Project was compiled in netbeans 
-main file to rune: elevator.java in src folder
+main file to run: elevator.java in src folder
